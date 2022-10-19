@@ -7,4 +7,4 @@ I use as flask homepage to create the form that takes in the information for the
 ## Screenshots
 
 Main Screen
-![Main Screen](/screenshots/2022-10-19.png?raw=true)
+![Main Screen](/screenshot/main.png?raw=true)
