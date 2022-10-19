@@ -8,3 +8,10 @@ I use as flask homepage to create the form that takes in the information for the
 
 Main Screen
 ![Main Screen](/screenshots/main.png?raw=true)
+You can see in this screenshot that there are no tweets scheduled and they are 3 tweets that have already been sent. I can delete the already sent tweets or the tweets that are scheduled to be sent, by clicking the delete button.
+
+---
+
+Tweet Scheduled
+![Tweet Scheduled](/screenshots/tweetscheduled.png?raw=true)
+In this screenshot you can see that there is one tweet scheduled to be sent. In the background there is a worker script that will continuously run and check if the time has passed and if it has it will send the tweet.
