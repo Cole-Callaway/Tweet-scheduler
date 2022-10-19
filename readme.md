@@ -15,3 +15,8 @@ You can see in this screenshot that there are no tweets scheduled and they are 3
 Tweet Scheduled
 ![Tweet Scheduled](/screenshots/tweetscheduled.png?raw=true)
 In this screenshot you can see that there is one tweet scheduled to be sent. In the background there is a worker script that will continuously run and check if the time has passed and if it has it will send the tweet.
+
+---
+
+Google Sheet
+![Google Sheet](/screenshots/googlesheet.png?raw=true)
